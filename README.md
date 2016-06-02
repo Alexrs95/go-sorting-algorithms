@@ -49,3 +49,4 @@
 ###Refs
 - [Sorting Algorithms](http://www.sorting-algorithms.com/shell-sort)
 - [Wikipedia] (https://en.wikipedia.org/wiki/Shellsort)
+- [TutorialsPoint](http://www.tutorialspoint.com/data_structures_algorithms/shell_sort_algorithm.htm)
