@@ -1,5 +1,5 @@
 # sorting-algorithms
-
+-[Bubble sort](# Bubble sort)
 ##Bubble sort
 ###Properties
 - Stable
