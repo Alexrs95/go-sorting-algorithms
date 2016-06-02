@@ -1,5 +1,8 @@
 # sorting-algorithms
--[Bubble sort](# Bubble sort)
+- [Bubble sort](# Bubble sort)
+- [Insertion sort](# Insertion sort)
+- [Selection sort](# Selection sort)
+
 
 ##Bubble sort
 ###Properties
@@ -20,4 +23,15 @@
 - Very low overhead
 ###Refs
 - [Sorting Algorithms](http://www.sorting-algorithms.com/insertion-sort)
-- [Wikipedia](https://en.wikipedia.org/wiki/Insertion_sort)1
+- [Wikipedia](https://en.wikipedia.org/wiki/Insertion_sort)
+
+##Selection sort
+###Properties
+- Not stable
+- O(1) extra space
+- Θ(n2) comparisons
+- Θ(n) swaps
+- Not adaptative
+###Refs
+- [Sorting Algorithms](http://www.sorting-algorithms.com/selection-sort)
+- [Wikipedia](https://en.wikipedia.org/wiki/Selection_sort)
