@@ -38,3 +38,14 @@
 ###Refs
 - [Sorting Algorithms](http://www.sorting-algorithms.com/selection-sort)
 - [Wikipedia](https://en.wikipedia.org/wiki/Selection_sort)
+
+##Shell sort
+###Propoerties
+- Not stable
+- O(1) extra space
+- 0(n3/2) time
+- Adaptative: O(nlg(n)) time when nearly sorted
+
+###Refs
+- [Sorting Algorithms](http://www.sorting-algorithms.com/shell-sort)
+- [Wikipedia] (https://en.wikipedia.org/wiki/Shellsort)
