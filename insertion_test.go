@@ -5,10 +5,10 @@ import (
 	"testing"
 )
 
-func TestBubbleSort(t *testing.T) {
+func TestInsertionSort(t *testing.T) {
 	list := []int{3, 5, 7, 5, 6, 2, 1}
 	ordered := []int{1, 2, 3, 5, 5, 6, 7}
-	BubbleSort(list)
+	InsertionSort(list)
 	if !reflect.DeepEqual(list, ordered) {
 		t.Error("Expected ", ordered, " got ", list)
 	}
