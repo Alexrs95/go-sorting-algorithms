@@ -50,3 +50,40 @@
 - [Sorting Algorithms](http://www.sorting-algorithms.com/shell-sort)
 - [Wikipedia] (https://en.wikipedia.org/wiki/Shellsort)
 - [TutorialsPoint](http://www.tutorialspoint.com/data_structures_algorithms/shell_sort_algorithm.htm)
+
+##Merge sort
+###Propoerties
+- Stable
+- Θ(n) extra space for arrays
+- Θ(lg(n)) extra space for linked lists
+- Θ(n·lg(n)) time
+- Not adaptive
+- Does not require random access to data
+
+###Refs
+- [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms/merge-sort)
+- [Wikipedia] (https://en.wikipedia.org/wiki/Merge_sort)
+
+##Heap sort
+###Propoerties
+- Not stable
+- O(1) extra space
+- O(n·lg(n)) time
+- Not really adaptive
+
+###Refs
+- [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms/heap-sort)
+- [Wikipedia] (https://en.wikipedia.org/wiki/Heapsort)
+
+
+##Quick sort
+###Propoerties
+- Not stable
+- O(lg(n)) extra space 
+- O(n2) time, but typically O(n·lg(n)) time
+- Not adaptive
+
+###Refs
+- [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms/quick-sort)
+- [Wikipedia] (https://en.wikipedia.org/wiki/Quicksort)
+
