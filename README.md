@@ -2,6 +2,10 @@
 - [Bubble sort](#bubble-sort)
 - [Insertion sort](#insertion-sort)
 - [Selection sort](#selection-sort)
+- [Shell sort](#shell-sort)
+- [Merge sort](#merge-sort)
+- [Heap sort](#heap-sort)
+- [Quick sort](#quick-sort)
 
 
 ##Bubble sort
